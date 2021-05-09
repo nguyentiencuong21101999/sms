@@ -1,0 +1,9 @@
+{
+    "mariaDBConfig":{
+        "connectionLimit": 16,
+        "host": "localhost",
+        "user": "root",
+        "password":"tiencuong@123",
+        "database": "sms"
+    }
+}
